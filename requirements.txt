@@ -1,0 +1,12 @@
+# feishu-remote-claude-agent v1.0.0 - Python 依赖
+
+# Claude Agent SDK
+claude-agent-sdk>=0.1.0
+
+# 飞书 SDK
+lark-oapi>=1.4.0
+
+# 其他依赖（通常是 Python 标准库）
+# asyncio - 内置
+# threading - 内置
+# pathlib - 内置
